@@ -15,6 +15,8 @@ const AllocationForm = (props) => {
                 setCost("");
                 return;
             }
+            
+            
 
         const expense = {
             name: name,
